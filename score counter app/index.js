@@ -4,7 +4,7 @@ let guestScoreEl = document.getElementById("guest")
 let guestScore = 0
 
 function homePlusOne() {
-    console.log("button clicked");
+    console.log("button");
     homeScore += 1;
     homeScoreEl.textContent = homeScore;
 }
