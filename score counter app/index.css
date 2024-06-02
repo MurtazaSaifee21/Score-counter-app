@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    justify-content: space-around;
+    border-top-style: inset;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.score {
+    background: #0a0001;
+    font-size: 90px;
+    color: #bd5265;
+    width: 120px;
+    margin: 20px;
+}
+
+button {
+    text-overflow: clip;
+    text-justify: initial;
+    font-style: oblique;
+    border-style: double;
+    text-wrap: initial;
+}
+
+h2 {
+    color: #bd5265;
+    background-color: black;
+}
+
+h3 {
+    color: rgb(6, 76, 141);
+}
